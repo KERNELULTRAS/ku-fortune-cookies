@@ -1,3 +1,3 @@
 #!/bin/sh
 
-cat abc |  sed -n "s%\(^[[]http://.*$\)%___tu___%;t;p;" > abc-nourl
+cat abc |  sed -n "s%\(^[[]http://.*$\)%%;t;p;" > abc-nourl
