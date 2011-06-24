@@ -449,7 +449,8 @@ OK1AS: + 1"
 							--freshmouse
 
 %
-kotyz: kuny? a nechybi vam tam nahodou jedno pismenko? ja vim ze nechybi, ale neodolal sem pokuseni trosku si rejpnout ... :-D
+kotyz: kuny? a nechybi vam tam nahodou jedno pismenko? ja vim ze nechybi,
+       ale neodolal sem pokuseni trosku si rejpnout ... :-D
 Marcela: To jsem přesně čekala. Kuny, kotyzi. Kuničky.
 
 %
@@ -466,7 +467,8 @@ Bedňa: Cadillac je známy svojimi úspornými motormi :-)
 
 %
 Lord Vetinari: Neda mi, ake diskove pole abclinuxu pouziva?
-Amigapower: O ploše 12 hektarů, je hned vedle mého konopného a Kotyzova bramborového pole. Na podzim vždycky Doli sedne na kombajn a sklízí disky. :-D
+Amigapower: O ploše 12 hektarů, je hned vedle mého konopného a Kotyzova bramborového pole.
+            Na podzim vždycky Doli sedne na kombajn a sklízí disky. :-D
 
 %
 Jenda: Ano, ten zanedbatelný podíl IPv6 skutečně nasere.
@@ -532,5 +534,44 @@ Stable release msys je na Vistě x64 absolutně nestabilní a tak jsem byl nucen
 %
 kotyz: Jo, to mě taky vždycky fascinovalo, jak sou všichni proti Temelínu, ale Dukovany nikomu nevadí.
 Heron: Lidem to ale nevadí, každý tam doslova září :-D
+
+%
+Proč to nevzít zgruntu
+							--Grunt
+
+%
+Optimista se uci anglicky. Pesimista se uci cinsky. Realista se uci strilet :)
+							--dementni.lojzik
+
+%
+Michal2: Nejsem sice sitar ale nevidim na prvni pohled prekazku v tom, udelat v ipv6 NAT.
+         Teda kdyby nekdo mermomoci takovou volovinu delat chtel.
+SPM: Překážka je v tom, že by tu implementaci napřed musel někdo napsat,
+     což díkybohu takyadmini, co ho tak potřebují, nezvládnou...
+
+%
+Navíc nemám pocit, že psaní síťových věcí by byl vrchol obtížnosti v programování.
+Patří to spíše k těm jednodušším programátorským úlohám.
+							--Miloslav Ponkrác 
+
+%
+Mě se naopak při stávce pracuje lépe než kdy jindy,
+protože kvůli ní přítelkyně vyrazila do práce už včera večer.
+							--pavlix
+
+%
+MHD ma za drahý peniaz dopraví nepohodlným spôsobom v čase, ktorý sa mi nehodí,
+z miesta, kde nie som, na miesto, kam sa nechcem dostať.
+							--rastos
+
+%
+a co tak napriklad vyskusat vyssie cisla v IP, az sa mi nechce verit
+ze to doteraz nikdo nevyskusal,napr. ip by bola 684.953.700.**
+							--anonym
+
+%
+Blogpost o kódovém vysacím zámku:
+Mercuriuz: jů, to je jeden z těch kterej mám otevřenej do dvou minut...nekecám ;)
+Jenda: Se znalostí kódu nebo bez?
 
 %
