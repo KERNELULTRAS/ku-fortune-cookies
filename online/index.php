@@ -20,22 +20,28 @@ function fortunePage()
   '<html>'.
   '<head>'.
     '<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">'.
-    '<link href="style.css" rel="stylesheet" type="text/css" media="screen">'.
-    '<script type="text/javascript" src="js.js"></script>'.
+    '<meta http-equiv="content-language" content="cs,en">'.
+    '<link href="res/style.css" rel="stylesheet" type="text/css" media="screen">'.
+    '<script type="text/javascript" src="res/jquery.js"></script>'.
+    '<script type="text/javascript" src="res/loader.js"></script>'.
     '<title>fortune</title>'.
   '</head>'.
   '<body>'.
     '<div class="center">'.
       '<div id="push">&nbsp;</div>'.
-      '<div id="screen">$ cat /dev/ka'."\n".$cookie[0].
-        //~ "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"  .
-        '</div>'.
-      '<div id="source"><a href="'.$cookie[1].'">zdroj →</a></div>'.
+      '<div id="screen">$ cat /dev/ka'.
+        '<div id="cookie">'.$cookie[0].'</div>'.
+      '</div>'.
+      '<div id="source">'.
+        '<a id="next" href="#">další ↻</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'.
+        '<a id="srclink" href="'.$cookie[1].'">zdroj ➤</a>'.
+      '</div>'.
     '</div>'.
+    '<div id="spinner">&nbsp;</div>'.
     '<div id="footer">'.
       '<a href="https://www.abclinuxu.cz/"><img src="http://www.abclinuxu.cz/images/site2/abc-dark.gif"></a>'.
-      '<a href="http://kernelultras.org/"><img src="ku.png"></a>'.
-      '<a href="https://github.com/kralyk/ku-fortune-cookies"><img src="github.png"></a>'.
+      '<a href="http://kernelultras.org/"><img src="res/ku.png"></a>'.
+      '<a href="https://github.com/kralyk/ku-fortune-cookies"><img src="res/github.png"></a>'.
     '</div>'.
   '</body>'.
   '</html>'.
@@ -45,13 +51,22 @@ function fortunePage()
 
 function fortuneAjax()
 {
+  $cookie = getCookieWithSrc();
+  header('Content-type: application/json');
+  echo json_encode
+  (array(
+    "text"    => $cookie[0],
+    "source"  => $cookie[1]
+  ));
 }
 
 function main()
 {
-  //~ if ($_SERVER['REQUEST_METHOD'] == 'POST')
-  //~ {
-  //~ }
+  if ($_SERVER['REQUEST_METHOD'] == 'POST')
+  {
+    fortuneAjax();
+    exit;
+  }
 
   if ($_SERVER['REQUEST_METHOD'] != 'GET') exit;
 
