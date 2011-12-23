@@ -30,7 +30,7 @@ function fortunePage()
     '<div class="center">'.
       '<div id="push">&nbsp;</div>'.
       '<div id="screen">$ cat /dev/ka'.
-        '<div id="cookie">'.$cookie[0].'</div>'.
+        '<div id="cookie">'.htmlspecialchars($cookie[0]).'</div>'.
       '</div>'.
       '<div id="source">'.
         '<a id="next" href="#">další ↻</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'.
@@ -55,7 +55,7 @@ function fortuneAjax()
   header('Content-type: application/json');
   echo json_encode
   (array(
-    "text"    => $cookie[0],
+    "text"    => htmlspecialchars($cookie[0]),
     "source"  => $cookie[1]
   ));
 }
