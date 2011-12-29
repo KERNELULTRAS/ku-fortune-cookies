@@ -29,24 +29,22 @@ function fortunePage()
   '<body>'.
     '<div class="center">'.
       '<div id="push">&nbsp;</div>'.
-      '<div id="screen">$ cat /dev/ka'.
+      '<div id="screen">$ cat /dev/ka '.
+        '<div id="spinner">&nbsp;</div>'.
         '<div id="cookie">'.htmlspecialchars($cookie[0]).'</div>'.
       '</div>'.
       '<div id="source">'.
-        '<a id="next" href="#">další ↻</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'.
+        '<a id="next" href="'.$_SERVER["REQUEST_URI"].'">další ↻</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'.
         '<a id="srclink" href="'.$cookie[1].'">zdroj ➤</a>'.
       '</div>'.
     '</div>'.
-    '<div id="spinner">&nbsp;</div>'.
     '<div id="footer">'.
       '<a href="https://www.abclinuxu.cz/"><img src="http://www.abclinuxu.cz/images/site2/abc-dark.gif"></a>'.
       '<a href="http://kernelultras.org/"><img src="res/ku.png"></a>'.
       '<a href="https://github.com/kralyk/ku-fortune-cookies"><img src="res/github.png"></a>'.
     '</div>'.
   '</body>'.
-  '</html>'.
-  '';
-
+  '</html>';
 }
 
 function fortuneAjax()
