@@ -100,8 +100,7 @@ jak se mají chovat v případě vlny neobvyklých veder.
 [http://www.abclinuxu.cz/blog/Mig_Alley/2010/10/kuba-zehli-7-kotev/diskuse#51]
 %
 Asi stárnu, ale pro mě je odpočinek také procházka se psem. Ten nikdy nezklame. Zejména,
-když je krásně a člověk se může dívat na krásy přírody, zejména pokud mají minisukně.
-:-)
+když je krásně a člověk se může dívat na krásy přírody, zejména pokud mají minisukně. :-)
 							--Dalibor Smolík
 
 [http://www.abclinuxu.cz/blog/BLB/2010/11/osude-mam-z-tebe-strach/diskuse#58]
@@ -163,6 +162,11 @@ Proč lžeš?
 							--Petr Tomeš
 
 [http://www.abclinuxu.cz/clanky/firefox-4-mame-se-na-co-tesit#83]
+%
+Užívej si svou retardaci a primitivismus.
+							--Petr Tomeš
+
+[http://www.abclinuxu.cz/blog/ptomes/2009/5/je-wikipedie-duveryhodna-a-vyplati-se-do-ni-prispivat#482]
 %
 Další 32bit šmejďárna...
 							--Jardík
@@ -1008,4 +1012,82 @@ sabraq: Ach takp :-P
 
 
 [http://www.abclinuxu.cz/clanky/hw-novinky-az-100w-odber-z-usb-konektoru/diskuse#48]
+%
+Krokodýlí řeku může překonat jen Krokodýlí řeka 2! Delší o 25%, o 30% více akce,
+o 60% horší scénář a o 100% větší rozpočet :D
+
+A ovce to budou žrát ... ;)
+							--kotyz
+
+[http://www.abclinuxu.cz/blog/leos/2011/12/bilancovani/diskuse#315]
+%
+Takhle se alokuje:
+(gdb) call malloc(100)
+$1 = 14324840
+Pak CTRL+C, CTRL+V
+							--Grunt
+
+[http://www.abclinuxu.cz/blog/firefox_bal/2012/1/ukazatele-a-jazyk-c/diskuse#184]
+%
+Snad mě nebudete kamenovat za off-topic zápisek, který nesouvisí ani s politikou,
+ani s řízením automobilu, ani s amatérskou psychoterapií.
+							--pavlix
+
+[http://www.abclinuxu.cz/blog/pavlix/2012/1/programek-na-faktury]
+%
+Amigapower: neni tam popis...
+Martin Petr: Jak to, že není? 1.Name 2.Email 3.Your website
+Amigapower: Ale já tam mam jen prázdný vokýnka :D
+otula: Tak si do nich prosím tě dej aspoň pelargonie ;)
+
+
+[http://www.abclinuxu.cz/zpravicky/generalni-stavka-internetu/diskuse#40]
+%
+Marcela odchází z makrobiotického mejdanu, žaludek plný bršlice a pastyňáku.
+Divná tíseň ji padá na srdce i střeva. V tom zahlédne hejno koček, kroužících nad střechami města.
+
+"Vždyt já ho miluji!" Uvědomí si náhle prozřelá! Nedbaje že jsou tři ráno
+(on je miláček stejně zhulenej to neva) běží, letí za svým Amigou!
+Pozdě. Zapoměl nakrmit ráno kočky a ty se nakrmily Amigou. Ohryzané umírající tělo
+se shoulí do klína Marcele a poslední vyznání lásky je i posledními slovy kočkomila.
+Marcela se pak rozhodne opustit světský ruch a zbytek života stráví
+v útulku pro kočky (tedy jako pracovnice, ne kočka).
+							--Dag
+
+[http://www.abclinuxu.cz/blog/BLB/2012/1/bojim-se-zmenit-znacku/diskuse#10]
+%
+"Poté co mi došlo, že nejsem genius, rozhodl jsem se zešílet."
+							--Bystroushaak
+
+[http://www.abclinuxu.cz/blog/bystroushaak/2011/11/paranoidni-teorie-hracu/diskuse#28]
+%
+život je paranormálny jav
+							--whistleblower
+
+[http://www.abclinuxu.cz/blog/Kuk/2012/1/-psi-zivot/diskuse#92]
+%
+Zprávička: HP otevřelo framework Enyo a zveřejnilo roadmapu pro celý webOS
+Mandarinka: Super, už brzo se to bude dát sloučit s Tizenem :3
+
+
+[http://www.abclinuxu.cz/zpravicky/hp-otevrelo-framework-enyo-a-zverejnilo-roadmapu-pro-cely-webos/diskuse#3]
+%
+gtz: No vem si, že dnes bylo u nás přes den něco kolem -12°C a v tom počasí si hodně lidí nevylízá,
+	natož aby někdo šel někam demonstrovat.
+SPM: Já mám teda pocit, že většina lidí si nevylízá ani v plus dvaceti :)
+
+
+[http://www.abclinuxu.cz/blog/proc_dalsi_nazev/2012/2/protest-piratu-proti-acta/diskuse#68]
+%
+Dopustil ses argumentu „ad Tomešum“
+							--pavlix
+
+[http://www.abclinuxu.cz/blog/merlins/2012/1/restituce-cirkvi-2012-nekonecny-pribeh/diskuse#377]
+%
+Když mají dva lidé jahody a jeden z nich je sní, tak ten druhý přijde zkrátka.
+Pokud mají dva lidé knihu a oba si jí přečtou, tak vznikne škoda tím,
+že místo jednoho vzdělaného člověka tu máme dva vzdělané lidi. To je ta škoda.
+							--pakanek
+
+[http://www.abclinuxu.cz/zpravicky/zakladatele-the-pirate-bay-odsouzeni#24]
 %
