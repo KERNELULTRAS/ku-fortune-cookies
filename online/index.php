@@ -2,7 +2,7 @@
 require("data.inc");
 $cnt = count($fortunes) - 1;
 
-$root = '';
+$root = '/';
 
 
 function getCookieWithSrc($i)
@@ -22,9 +22,9 @@ function fortunePage($i, $plink)
   '<head>'.
     '<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">'.
     '<meta http-equiv="content-language" content="cs,en">'.
-    '<link href="'.$root.'/res/style.css" rel="stylesheet" type="text/css" media="screen">'.
-    '<script type="text/javascript" src="'.$root.'/res/jquery.js"></script>'.
-    '<script type="text/javascript" src="'.$root.'/res/loader.js"></script>'.
+    '<link href="'.$root.'res/style.css" rel="stylesheet" type="text/css" media="screen">'.
+    '<script type="text/javascript" src="'.$root.'res/jquery.js"></script>'.
+    '<script type="text/javascript" src="'.$root.'res/loader.js"></script>'.
     '<title>fortune</title>'.
   '</head>'.
   '<body>'.
@@ -36,14 +36,14 @@ function fortunePage($i, $plink)
       '</div>'.
       '<div id="source">'.
         '<a '.($plink ? '' : 'id="next"').' href="'.$root.'">další ↻</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'.
-        '<a id="plink" href='."$root/fortune/$i".'>odkaz ☍</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'.
+        '<a id="plink" href='.$root.'fortune/'.$i.'>odkaz ☍</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'.
         '<a id="srclink" href="'.$cookie[1].'">zdroj ➤</a>'.
       '</div>'.
     '</div>'.
     '<div id="footer">'.
       '<a href="https://www.abclinuxu.cz/"><img src="http://www.abclinuxu.cz/images/site2/abc-dark.gif"></a>'.
-      '<a href="http://kernelultras.org/"><img src="'.$root.'/res/ku.png"></a>'.
-      '<a href="https://github.com/kralyk/ku-fortune-cookies"><img src="'.$root.'/res/github.png"></a>'.
+      '<a href="http://kernelultras.org/"><img src="'.$root.'res/ku.png"></a>'.
+      '<a href="https://github.com/kralyk/ku-fortune-cookies"><img src="'.$root.'res/github.png"></a>'.
     '</div>'.
   '</body>'.
   '</html>';
@@ -58,7 +58,7 @@ function fortuneAjax($i)
   echo json_encode
   (array(
     "text"    => htmlspecialchars($cookie[0]),
-    "plink"      => "$root/fortune/$i",
+    "plink"   => $root.'fortune/'.$i,
     "source"  => $cookie[1]
   ));
 }
