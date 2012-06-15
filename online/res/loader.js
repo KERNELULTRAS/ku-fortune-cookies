@@ -21,6 +21,7 @@
   function updateNext(data)
   {
     $cookie.html(data.text);
+    $('#plink').attr('href', data.plink);
     $('#srclink').attr('href', data.source);
   }
 

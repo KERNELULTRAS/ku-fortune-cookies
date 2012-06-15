@@ -1,19 +1,20 @@
 <?php
-require("fortune.php");
-$f = new Fortune;
+require("data.inc");
+$cnt = count($fortunes) - 1;
+
+$root = '';
 
 
-
-function getCookieWithSrc()
+function getCookieWithSrc($i)
 {
-  global $f;
-  $cookie = $f->getRandomQuote("abc.dat");
-  return preg_split("/\[(http:\/\/.*)\]/", $cookie, -1, PREG_SPLIT_DELIM_CAPTURE);
+  global $fortunes;
+  return $fortunes[$i];
 }
 
-function fortunePage()
+function fortunePage($i, $plink)
 {
-  $cookie = getCookieWithSrc();
+  global $root;
+  $cookie = getCookieWithSrc($i);
 
   echo
   "\n\n".'<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/1998/REC-html40-19980424/strict.dtd">'."\n".
@@ -21,9 +22,9 @@ function fortunePage()
   '<head>'.
     '<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">'.
     '<meta http-equiv="content-language" content="cs,en">'.
-    '<link href="res/style.css" rel="stylesheet" type="text/css" media="screen">'.
-    '<script type="text/javascript" src="res/jquery.js"></script>'.
-    '<script type="text/javascript" src="res/loader.js"></script>'.
+    '<link href="'.$root.'/res/style.css" rel="stylesheet" type="text/css" media="screen">'.
+    '<script type="text/javascript" src="'.$root.'/res/jquery.js"></script>'.
+    '<script type="text/javascript" src="'.$root.'/res/loader.js"></script>'.
     '<title>fortune</title>'.
   '</head>'.
   '<body>'.
@@ -34,41 +35,54 @@ function fortunePage()
         '<div id="cookie">'.htmlspecialchars($cookie[0]).'</div>'.
       '</div>'.
       '<div id="source">'.
-        '<a id="next" href="'.$_SERVER["REQUEST_URI"].'">další ↻</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'.
+        '<a '.($plink ? '' : 'id="next"').' href="'.$root.'">další ↻</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'.
+        '<a id="plink" href='."$root/fortune/$i".'>odkaz ☍</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'.
         '<a id="srclink" href="'.$cookie[1].'">zdroj ➤</a>'.
       '</div>'.
     '</div>'.
     '<div id="footer">'.
       '<a href="https://www.abclinuxu.cz/"><img src="http://www.abclinuxu.cz/images/site2/abc-dark.gif"></a>'.
-      '<a href="http://kernelultras.org/"><img src="res/ku.png"></a>'.
-      '<a href="https://github.com/kralyk/ku-fortune-cookies"><img src="res/github.png"></a>'.
+      '<a href="http://kernelultras.org/"><img src="'.$root.'/res/ku.png"></a>'.
+      '<a href="https://github.com/kralyk/ku-fortune-cookies"><img src="'.$root.'/res/github.png"></a>'.
     '</div>'.
   '</body>'.
   '</html>';
 }
 
-function fortuneAjax()
+function fortuneAjax($i)
 {
-  $cookie = getCookieWithSrc();
+  global $root;
+
+  $cookie = getCookieWithSrc($i);
   header('Content-type: application/json');
   echo json_encode
   (array(
     "text"    => htmlspecialchars($cookie[0]),
+    "plink"      => "$root/fortune/$i",
     "source"  => $cookie[1]
   ));
 }
 
+function search($q)
+{
+  echo 'Sorry, not implemented yet';
+}
+
 function main()
 {
+  global $cnt;
+
   if ($_SERVER['REQUEST_METHOD'] == 'POST')
   {
-    fortuneAjax();
+    fortuneAjax(rand(0, $cnt-1));
     exit;
   }
 
   if ($_SERVER['REQUEST_METHOD'] != 'GET') exit;
 
-  fortunePage();
+  if (isset($_GET['search'])) search($_GET['search']);
+  else if (isset($_GET['fortune'])) fortunePage($_GET['fortune'], true);
+  else fortunePage(rand(0, $cnt-1), false);
 }
 
 

@@ -1,0 +1,6 @@
+
+RewriteEngine On
+
+
+RewriteRule fortune/([0-9]+)$ index.php?fortune=$1 [L]
+RewriteRule search/([^&]]*)$ index.php?search=$1 [L]
