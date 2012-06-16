@@ -1,5 +1,4 @@
 BEGIN {
-  prev = "abc";
   print "<?php\n$fortunes = array(\n  array(";
 }
 
