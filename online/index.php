@@ -26,7 +26,7 @@ function page($html)
     '<link href="'.$root.'res/style.css" rel="stylesheet" type="text/css" media="screen">'.
     '<script type="text/javascript" src="'.$root.'res/jquery.js"></script>'.
     '<script type="text/javascript" src="'.$root.'res/loader.js"></script>'.
-    '<title>fortune</title>'.
+    '<title>'.htmlspecialchars($pageTitle).'</title>'.
   '</head>'.
   '<body>'.
     '<div id="header">'.
@@ -84,7 +84,7 @@ function listAll()
 
   $html = '<div id="screen" class="list-screen">';
 
-  for ($i = 0; $i < $cnt; $i++)
+  for ($i = $cnt-1; $i >= 0; $i--)
   {
     $cookie = getCookieWithSrc($i);
     $html .=
