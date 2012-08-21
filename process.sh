@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cat abc | sed -n "s%^[[]https\?://.*$%%;t;p;" > abc-nourl
+cat abc | sed '/^[[]http:/d; /^[[]https:/d;' > abc-nourl
 
 strfile abc abc.dat
 strfile abc-nourl abc-nourl.dat

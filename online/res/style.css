@@ -1,13 +1,11 @@
 
-HTML
+html
 {
   height: 100%;
-/*
-  min-height: 100%;
-*/
+  font: 20px sans-serif;
 }
 
-BODY
+body
 {
   color: #ffffff;
   background-color: #000000;
@@ -16,11 +14,78 @@ BODY
   height: 100%;
 }
 
+a:link, a:visited
+{
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover, a:active
+{
+  color: #0087ED;
+}
+
+#wrapper
+{
+  height: 100%;
+}
+
+#header
+{
+  background-color: #222222;
+  height: 60px;
+  border-bottom: 5px solid #0088cc;
+  padding: 5px 20px 0 15px;
+}
+
+#header-l
+{
+  float: left;
+}
+
+h1
+{
+  font-size: 30px;
+  margin: 0;
+}
+
+h1 a:hover, h1 a:active
+{
+  color: #ffffff;
+}
+
+h2
+{
+  font-size: 12px;
+  font-weight: normal;
+  font-style: italic;
+  margin: 0;
+}
+
+#header-r
+{
+  margin-top: 15px;
+  float: right;
+}
+
+#header-r a
+{
+  margin-right: 11px;
+  padding-right: 11px;
+  border-right: 1px solid #fff;
+}
+
+#header-r a.last
+{
+  border: 0px;
+  margin: 0;
+  padding: 0;
+}
+
 .center
 {
   width: 75%;
-  height: 100%;
-
+  height: 60%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -33,29 +98,46 @@ BODY
 #screen
 {
   width: 100%;
-  height: 60%;
+  min-height: 100%;
   white-space: pre;
   font: 14px monospace;
-  overflow: auto;
+  padding-top: 50px;
 }
 
 #source
 {
   text-align: right;
-  font: 20px sans-serif;
 }
 
-a:link, a:visited
+#source a
 {
-  color: white;
-  text-decoration: none;
+  margin: 0 0 0 20px;
 }
 
-a:hover, a:active
+.list-screen
 {
-  color: #0087ED;
+  padding-bottom: 100px;
 }
 
+.list-cookie
+{
+  margin: 20px 0 0 0;
+}
+
+.list-source
+{
+  text-align: right;
+  margin: 0 0 5px 0;
+}
+
+.hr
+{
+  width: 100%;
+  height: 0;
+  border-top: 1px solid #0088cc;
+}
+
+/*
 #footer
 {
   position: absolute;
@@ -70,6 +152,7 @@ a:hover, a:active
   margin-left: 10%;
   margin-right: 10%;
 }
+*/
 
 #spinner
 {
