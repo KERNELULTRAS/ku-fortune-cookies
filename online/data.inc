@@ -945,7 +945,7 @@ $fortunes = array(
 ''."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/Untitled/2012/4/cplusplus-2580/diskuse#17'),
-  array('Sten: Švédsko má krádnou přírodu i příjemné lidi.'."\n".
+  array('Sten: Švédsko má krásnou přírodu i příjemné lidi.'."\n".
 'Honza Jaroš: Mají tam krásá jøzøra a majestátného løøsa. Leč pozor na něj, hrüznutí løøsem bývá hnüsné... :-)'."\n".
 ''."\n".
 ''."\n".
@@ -1005,7 +1005,8 @@ $fortunes = array(
 ''."\n".
 ''."\n".
 '', 'https://abclinuxu.cz/blog/ptomes/2009/5/je-wikipedie-duveryhodna-a-vyplati-se-do-ni-prispivat#391'),
-  array('Stare zlate casy, kdy i trollove meli nejakou uroven. Ted uz snad i na to najimaji ukrajince. Ceho sme se to dockali. :-/'."\n".
+  array('Stare zlate casy, kdy i trollove meli nejakou uroven.'."\n".
+'Ted uz snad i na to najimaji ukrajince. Ceho sme se to dockali. :-/'."\n".
 '							--Mti.'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/zpravicky/sbirka-na-cyanogenmod-trvala-jenom-8-hodin#15'),
@@ -1036,5 +1037,85 @@ $fortunes = array(
 ''."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/leos/2011/12/bilancovani/diskuse#332'),
+  array('Při kontaktu s chlupatýma jsou veškerá data citlivá.'."\n".
+'							--David Kolibáč'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/Power/2012/6/licence-windows-mohou-vyjit-draze/diskuse#27'),
+  array('IP adresu do každý rodiny!'."\n".
+'Nebo aspoň kočku...'."\n".
+'							--kotyz'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/Kuk/2012/6/zmije-za-dvermi#26'),
+  array('dad: podle popisu je i nadale hodne v kurzu to objektove orientovane xxxx.'."\n".
+'	Zajimalo by me, zda je tento pristup i kriticky komentovan,'."\n".
+'	zda se rozebira jestli to vubec neco prineslo, jake vyhody a nevyhody a pod.'."\n".
+'podlesh: Pokud vím, Václav Klaus se ještě nevyjádřil, takže problematika je skutečně ještě otevřena.'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/pyx/2012/6/informatika-na-kmi-upol-report-za-2.-semestr/diskuse#31'),
+  array('Ale o tom ten blog není. Nebo já si myslím že není, to že jsem autor mi nedává monopol na jeho výklad.'."\n".
+'							--Dag'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/Kuk/2012/6/zmije-za-dvermi/diskuse#43'),
+  array('Jak je vidět, chceš bolševiku kotyze vodloudit. Leč kotyz je na inteligentní a krásný, ty nejsi ani jedno.'."\n".
+'							--Jan Jílek'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/Kuk/2012/6/zmije-za-dvermi/diskuse#1367'),
+  array('Umělá inteligence se nemůže rovnat přirozený blbosti.'."\n".
+'							--kotyz'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/Kuk/2012/6/zmije-za-dvermi/diskuse#2308'),
+  array('Pokud by mě po těch letech na 4chanu nasralo něco tak jednoduchého,'."\n".
+'jako že jsem ovce, tak bych musel vrátit svůj 4chan gold account.'."\n".
+'							--Bystroushaak'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/pyx/2012/7/eurohlasovani-o-acta-v-utery/diskuse#100'),
+  array('tomvec: Vezl jsem Trabantem Kombi hrnce na zabíjačku, rychlost třicet, pocitově tak tři sta :D'."\n".
+'Dalibor Smolík: Proboha. To musel být větší rachot než když souloží kostlivci na plechové střeše.'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/dw/2012/7/prvni-dojmy-z-autoskoly/diskuse#177'),
+  array('Ale já si uvědomuju, že to je CDO (to je něco jako OCD, akorát jsou '."\n".
+'písmenka v té zkratce podle abecedy, přesně tak, jak mají být!).'."\n".
+'							--Jenda'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/urandom/2012/7/lhali-vn-am/diskuse#144'),
+  array('Dalibor Smolík: Nejen v zimě, jezdit s dvanáctsettrojkou bylo za trest kdykoliv.'."\n".
+'jozka: Ale ten pocit, kdyz se clovek naucil zaradit jednicku bez pusteni steracu...'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/dw/2012/7/prvni-dojmy-z-autoskoly/diskuse#461'),
+  array('Distribuce sou jako pokémoni - musíš je vyzkoušet všechny!'."\n".
+'							--kotyz'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/hansovo/2012/8/par-postrehu-a-dojmu-z-rocniho-pouzivani-linuxu/diskuse#28'),
+  array('Pri dalkovych/elektronickych platbach je \'vrchol zabezpeceni\' (Jak tady tak v USA) to,'."\n".
+'ze krome jednoho cisla napsaneho na karte se preda navic jine cislo napsane na karte.'."\n".
+'							--Ondrej \'SanTiago\' Zajicek'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/kvuli-chybam-podpory-applu-a-amazonu-prisel-znamy-novinar-o-vsechna-data#22'),
+  array('Anonym: Já absolvovala před 12ti lety ten gruntovnější proces spojený se změnou pohlaví a to je teprve mazec, to bys zíral...'."\n".
+'	tam už se žádné relikty minulosti nekonají - to vám vyperou i rodné číslo a občanku dočista "dorůžova" v mém případě.'."\n".
+'freshmouse: Jméno sis měla nechat. Vždyť David Kolibáč nezní tak špatně.'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/Max_Devaine/2009/10/howto-jak-si-zmenit-jmeno-a-prijmeni#69'),
+  array('davkol: Tak jsem si vzpomněl na tvé výroky v diskuzi na LinuxExpresu.'."\n".
+'Jenda: Koukám, že je tam nějaký nick kolidující se mnou :)'."\n".
+'JS: To je fakt silena nahoda, cim to jen muze byt?'."\n".
+'Jenda: Netuším, pětiznakových nicků přece může být (2*26+10)^5 ≈ 916e6. Proč by si někdo další vybíral zrovna "Jenda"?!'."\n".
+'xkucf03: Rodiče obvykle nebývají dobrým generátorem náhodných znaků :)'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/Fedorka_a_spol/2012/8/alta-ce-zet-dejstvo-druhe/diskuse#28'),
+  array('Jen blbec se dokáže dlouhodobě bavit urážením druhých v diskuzi. Ostatní to rychle přejde.'."\n".
+'							--pavlix'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/pyx/2012/7/eurohlasovani-o-acta-v-utery/diskuse#98'),
+  array('Amigapower: píču, čuměl sem tam nedávno a hovno...'."\n".
+'xkucf03: Tak to jsi asi čuměl jinam.'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/Strider_BSD_koutek/2012/6/predovolenovy-blog/diskuse#50'),
   array()
 );
