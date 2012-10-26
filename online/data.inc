@@ -243,8 +243,7 @@ $fortunes = array(
 '', 'https://www.abclinuxu.cz/zpravicky/text-acta-byl-vyjednan#5'),
   array('Zprávička: Francouzská policie přechází na Ubuntu'."\n".
 'heh: Po dlouhé době jedna smysluplná zprávička obsahující slovo "ubuntu".'."\n".
-'Semo: To zas Ubuntu krivdis. Ale je to po dlhej dobe jedna zmysluplna spravicka obsahujuca slovo'."\n".
-'"francuzska".'."\n".
+'Semo: To zas Ubuntu krivdis. Ale je to po dlhej dobe jedna zmysluplna spravicka obsahujuca slovo "francuzska".'."\n".
 ''."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/zpravicky/francouzska-policie-prechazi-na-ubuntu/diskuse#4'),
@@ -256,7 +255,7 @@ $fortunes = array(
 '', 'https://www.abclinuxu.cz/zpravicky/diakritika-v-.cz-domenach-opet-odmitnuta#34'),
   array('Marcela: Co jste to zas vytvrořil, brouku? Nechcete taky někdy zprznit sám sebe? :-)'."\n".
 'Bedňa: Treba priložiť prst na klitoris a použíť rýchle pohyby. Hovorí sa tomu stimulácia'."\n".
-'nervových zakončení :-)'."\n".
+'	nervových zakončení :-)'."\n".
 'Amigapower: :-D  Já bych toho Paní (Slečnu???????????? Jak to vlastně je???????????) Marcelu'."\n".
 'třeba i dobrovolně ušetřil ;-)'."\n".
 'Bedňa: To ja bysom som si tu stimuláciu minimálne rád pozrel :-)'."\n".
@@ -1117,5 +1116,46 @@ $fortunes = array(
 ''."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/Strider_BSD_koutek/2012/6/predovolenovy-blog/diskuse#50'),
+  array('Zprávička: The H informuje o problému s anonymním prohlížením ve Firefoxu 15.'."\n".
+'Rumburak: Pokazil sa pornomod... Nemile...'."\n".
+'Solitary: Samozrejme, proto je taky ten bug oznacen jako kriticky :)'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/firefox-15-a-ne-anonymni-prohlizeni#2'),
+  array('My jsme technicti hracickove a vetsinove se zde neschodnem skoro na nicem relevatnim.'."\n".
+'							--little.owl'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/arch-linux-prejde-na-systemd/diskuse#200'),
+  array('Vladimír Zima je placen CIA a NSA jointem, aby vytvořil "svobodný" CAD systém,'."\n".
+'který se postupně stane standardem a v kterém bude implementována funkce,'."\n".
+'která bude mít za úkol při aktivačním příkazu od židozednářských dollarových cechů'."\n".
+'spustit finální NWO za pomoci veškeré výpočetní a fyzické síly ve všech chytrých zařízeních,'."\n".
+'navržených za pomoci tohoto software.'."\n".
+'							--asdf (anonym)'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/FREESOFTWARE/2012/9/-11.-zari/diskuse#5'),
+  array('Valašsko tou dobou: Prohibice? Kde?'."\n".
+'							--Grunt'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/merlins/2012/9/prohibice/diskuse#258'),
+  array('Jsem jednoprocentní a jsem na to hrdý!'."\n".
+'							--Dreit'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/lide/Tinker'),
+  array('To bude zase v alejích biomasy.'."\n".
+'							--Jenda'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/drum_bass/2012/9/svepomocna-instalace-pc-rovna-se-ilegalni-cinnost#1'),
+  array('sumix: Sice trochu OT, ale myslím, že patent na přenos informací přes lidské tělo má Intel.'."\n".
+'xkucf03: Mají patentovaný sex?'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/patent-sony-na-identifikaci-uzivatelu-spotrebni-elektroniky/diskuse#31'),
+  array('Zprávička: Výsledky soutěže o nejnepřehlednější zdrojový kód v C'."\n".
+'vraja: Docela by mě zajímalo jak by taková soutěž dopadla v PERLu :)'."\n".
+'Scarabeus IV: No tam se tomu rika best practices. :)'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/vysledky-souteze-o-nejneprehlednejsi-zdrojovy-kod-v-c#4'),
   array()
 );
