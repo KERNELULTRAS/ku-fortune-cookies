@@ -44,7 +44,7 @@ $fortunes = array(
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/Standovo/2009/10/windows-7-prvni-zklamani/diskuse#146'),
   array('AsciiWolf: Chtělo by to upravit engine ábíčka tak, aby byl u blogů tag break vložen'."\n".
-'automaticky - před první obrázek, delší odstavec, atd...'."\n".
+'	   automaticky - před první obrázek, delší odstavec, atd...'."\n".
 'Amigapower: A aby ti to přineslo pivo k televizi nechceš?'."\n".
 ''."\n".
 ''."\n".
@@ -71,8 +71,7 @@ $fortunes = array(
 '							--kralyk'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/ankety/radio#83'),
-  array('Příští semestr si zapíšu předmět Administrace Windows jen proto, abych tam mohl přijít v'."\n".
-'triku KU.'."\n".
+  array('Příští semestr si zapíšu předmět Administrace Windows jen proto, abych tam mohl přijít v triku KU.'."\n".
 '							--kralyk'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/BLB/2010/10/hleda-se-kernel-ultras-logistic-manager/diskuse#10'),
@@ -85,13 +84,12 @@ $fortunes = array(
 '							--Dalibor Smolík'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/Mig_Alley/2010/10/kuba-zehli-7-kotev/diskuse#51'),
-  array('Asi stárnu, ale pro mě je odpočinek také procházka se psem. Ten nikdy nezklame. Zejména,'."\n".
-'když je krásně a člověk se může dívat na krásy přírody, zejména pokud mají minisukně. :-)'."\n".
+  array('Asi stárnu, ale pro mě je odpočinek také procházka se psem. Ten nikdy nezklame.'."\n".
+'Zejména, když je krásně a člověk se může dívat na krásy přírody, zejména pokud mají minisukně. :-)'."\n".
 '							--Dalibor Smolík'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/BLB/2010/11/osude-mam-z-tebe-strach/diskuse#58'),
-  array('Marcelka je prostě docela dobrá samička, jenže s pavučinou přes lízátko, někde si to'."\n".
-'vybít holt musí...'."\n".
+  array('Marcelka je prostě docela dobrá samička, jenže s pavučinou přes lízátko, někde si to vybít holt musí...'."\n".
 '							--Amigapower'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/Strider_BSD_koutek/2010/10/svoboda-pro-vsechny/diskuse#167'),
@@ -114,9 +112,8 @@ $fortunes = array(
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/Untitled/2010/11/viceznacne-zasifrovani-a-autorsky-zakon/diskuse#21'),
   array('qiRzT: Převést peníze na životy ještě nějak jde, ale opačně už to moc nejde. Jakou má'."\n".
-'cenu život dítěte?'."\n".
-'Dalibor Smolík: Když se narodí, má tak kolem 3,5 kg. Je to i s kostí, takže za to moc peněz'."\n".
-'nebude :)'."\n".
+'	cenu život dítěte?'."\n".
+'Dalibor Smolík: Když se narodí, má tak kolem 3,5 kg. Je to i s kostí, takže za to moc peněz nebude :)'."\n".
 ''."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/pyx/2010/10/zrudy/diskuse#436'),
@@ -124,8 +121,8 @@ $fortunes = array(
 '							--Petr Tomeš'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/ptomes/2008/3/firefox-3-je-nejrychlejsi-ve-zpracovani-javascriptu/diskuse#215'),
-  array('Mozilla dělá program pro 300 milionů lidí, díky kterýmu pokračují inovace na webu a'."\n".
-'vyvíjí se i dominantní prohlížeč.'."\n".
+  array('Mozilla dělá program pro 300 milionů lidí, díky kterýmu pokračují inovace na webu'."\n".
+'a vyvíjí se i dominantní prohlížeč.'."\n".
 '							--Petr Tomeš'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/zpravicky/firefox-3.5-rc/diskuse#150'),
@@ -163,20 +160,20 @@ $fortunes = array(
 '							--podlesh'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/doli/2009/5/miting-cssd-na-andelu#584'),
-  array('Wokna mnohým lidem vyhovujou víc. Ovšem ne proto, že by byly lepší, ale proto, že tito'."\n".
-'uživatelé jsou horší a platí svůj k svému ;)'."\n".
+  array('Wokna mnohým lidem vyhovujou víc. Ovšem ne proto, že by byly lepší, ale proto,'."\n".
+'že tito uživatelé jsou horší a platí svůj k svému ;)'."\n".
 '							--Ash'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/ankety/microsoft-codeplex/diskuse#33'),
   array('AltOS: Bah! Az budou dlouhe zimni vecery, tak bych snad uz opravdu mohl "vytvorit" tu novou'."\n".
-'distribuci Gambrinux...'."\n".
+'	distribuci Gambrinux...'."\n".
 'Marek Stopka: Chtěl si říct Gambribuntu, ne?'."\n".
 'AltOS: Ne, chtel jsem rici openGAMBRINUSE.'."\n".
 ''."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/puppylinux/2008/9/gnu-linux-vs-pivo#10'),
-  array('S platností do konce roku budu vzorným křesťanem, nebudu číst Dawkinse, vzývat Cthulhu'."\n".
-'a přestanu zabíjet koťatka.'."\n".
+  array('S platností do konce roku budu vzorným křesťanem, nebudu číst Dawkinse,'."\n".
+'vzývat Cthulhu a přestanu zabíjet koťatka.'."\n".
 '							--kyknos'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/quid_novi/2009/12/prechazim-na-krestanstvi'),
@@ -196,8 +193,7 @@ $fortunes = array(
 '							--Sten (anonym)'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/zpravicky/linuxove-distribuce-prirovnany-k-jidlu#19'),
-  array('MacOS X je jako kaviár. Extrémně drahý, chutná divně a lidé, co na něj mají, se jím rádi'."\n".
-'chlubí.'."\n".
+  array('MacOS X je jako kaviár. Extrémně drahý, chutná divně a lidé, co na něj mají, se jím rádi chlubí.'."\n".
 '							--Sten (anonym)'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/zpravicky/linuxove-distribuce-prirovnany-k-jidlu#19'),
@@ -209,8 +205,8 @@ $fortunes = array(
 '							--Nicky 726'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/itckar/2010/10/microsoft-vs.-skoda-120/diskuse#39'),
-  array('Kazdopadne nema zmysel riesit, preco sa z francuzkej skodovky v madarsku dymi z predu v reklame na'."\n".
-'shitosofti telefon :-)'."\n".
+  array('Kazdopadne nema zmysel riesit, preco sa z francuzkej skodovky v madarsku dymi'."\n".
+'z predu v reklame na shitosofti telefon :-)'."\n".
 '							--msk'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/itckar/2010/10/microsoft-vs.-skoda-120/diskuse#21'),
@@ -247,8 +243,8 @@ $fortunes = array(
 ''."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/zpravicky/francouzska-policie-prechazi-na-ubuntu/diskuse#4'),
-  array('Dalibor Smolík: Když mi bylo 14 let, měli lékaři u mě podezření na lepru. Vážně, Dálný'."\n".
-'Východ .. naštěstí planý poplach.'."\n".
+  array('Dalibor Smolík: Když mi bylo 14 let, měli lékaři u mě podezření na lepru. Vážně, Dálný Východ...'."\n".
+'		naštěstí planý poplach.'."\n".
 'jozka: Asi bys byl jediny ctrnactilety, ktery by se neradoval z toho, ze mu neco odpadne...'."\n".
 ''."\n".
 ''."\n".
@@ -276,7 +272,7 @@ $fortunes = array(
 ''."\n".
 '', 'https://www.abclinuxu.cz/clanky/komiks-xkcd-857-archimedes/diskuse#51'),
   array('xurfa: Klidek, to jen IPv6 fanatici vytvareji paniku, aby donutili vsechny ostatni prejit na ten'."\n".
-'       jejich nedodelanej zmetek...'."\n".
+'	jejich nedodelanej zmetek...'."\n".
 'kip: Proč lozit do záchranných člunů, když orchestr pořád hraje, že?'."\n".
 ''."\n".
 ''."\n".
@@ -291,8 +287,8 @@ $fortunes = array(
 '							--Neel'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/zpravicky/ubuntu-prestane-pouzivat-x.org/diskuse#82'),
-  array('SP k Windows prý mají přinést volbu Disable DDOS, kterou když uživatel zaškrtne, tak bude'."\n".
-'chráněn. Zkusím zapátrat na Slunečnici jestli tam na to není už nějaká utilitka.'."\n".
+  array('SP k Windows prý mají přinést volbu Disable DDOS, kterou když uživatel zaškrtne, tak bude chráněn.'."\n".
+'Zkusím zapátrat na Slunečnici jestli tam na to není už nějaká utilitka.'."\n".
 '							--Xerces (anonym)'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/zpravicky/jak-se-vyporadat-s-ddos/diskuse#2'),
@@ -300,9 +296,8 @@ $fortunes = array(
 '							--xkucf03'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/jezkova_nora/2010/12/zda-se-mi-to/diskuse#39'),
-  array('To já měl zas "Ha! Láva fárá". Pomůcka do Německy s úsměvem pro časování'."\n".
-'nepravidelných sloves. Funguje asi z 85 %, což bylo vhledem k hranici testu 50 %, zcela'."\n".
-'dostačující.'."\n".
+  array('To já měl zas "Ha! Láva fárá". Pomůcka do Německy s úsměvem pro časování nepravidelných sloves.'."\n".
+'Funguje asi z 85 %, což bylo vhledem k hranici testu 50 %, zcela dostačující.'."\n".
 '							--Voty'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/clanky/komiks-xkcd-809-los-alamos/diskuse#37'),
@@ -311,12 +306,12 @@ $fortunes = array(
 '							--Jenda'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/clanky/komiks-xkcd-378-opravdovi-programatori/diskuse#3'),
-  array('Troll krmí trolla. Tohle jsem nikdy nepochopil jak může fungovat. To je jako když zloděje'."\n".
-'okrade zloděj. Nebo jako když markeťák naletí na reklamu.'."\n".
+  array('Troll krmí trolla. Tohle jsem nikdy nepochopil jak může fungovat.'."\n".
+'To je jako když zloděje okrade zloděj. Nebo jako když markeťák naletí na reklamu.'."\n".
 '							--Grunt'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/zpravicky/nokia-a-microsoft-zahajuji-spolupraci/diskuse#33'),
-  array('už sem Android měl v prackách na mašince od THC'."\n".
+  array('už sem Android měl v prackách na mašince od THC.'."\n".
 '							--Migilenik'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/odi_et_amo/2011/2/pohreb-pro-nokia-a-meego-...-r.i.p/diskuse#20'),
@@ -353,8 +348,8 @@ $fortunes = array(
 '							--Dag'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/instalace_vmwaru/2006/3/14/124648#8'),
-  array('Nemohu nevzpomenout onen pruzkum, ktery prisel na to, ze zhruba polovina mladych lidi vidi svou'."\n".
-'situaci optimisticky. Druha polovina nema na drogy penize.'."\n".
+  array('Nemohu nevzpomenout onen pruzkum, ktery prisel na to, ze zhruba polovina mladych lidi'."\n".
+'vidi svou situaci optimisticky. Druha polovina nema na drogy penize.'."\n".
 '							--jozka'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/martinek/2011/4/ziji-v-krasne-dobe/diskuse#34'),
@@ -431,7 +426,7 @@ $fortunes = array(
 '', 'https://www.abclinuxu.cz/zpravicky/palm-pixi-prezil-upeceni-v-troube#12'),
   array('Gonic (blog): Na rychlé lajně - 3 měsíce'."\n".
 '	Pokusím se tu nějak slušně napsat zkušenosti s používáním internetu při rychlosti 100/100 Mbit/s.'."\n".
-'Amigapower: čekal sem metanfetaminovej zápisek :D'."\n".
+'Amigapower: čekal sem metamfetaminovej zápisek :D'."\n".
 ''."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/moje/2010/3/na-rychle-lajne-3-mesice#40'),
@@ -467,7 +462,7 @@ $fortunes = array(
 ''."\n".
 'Jardík: Foto svého penisu ...'."\n".
 'xxxs: myslim, ze by si sa neovladol a porusil bod 11.'."\n".
-'      obrázky zjavne upravované počítačovými programami, najmä fotomontáže.'."\n".
+'	obrázky zjavne upravované počítačovými programami, najmä fotomontáže.'."\n".
 ''."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/home_feco_blog/2010/11/iluzia-slobody#6'),
@@ -511,7 +506,7 @@ $fortunes = array(
   array('Blogy: Jaké to je být vychováván stejnopohlavním párem? --Petr Tomeš'."\n".
 'xkcd česky: Nerd holky'."\n".
 'SPM: Jak jsem po ránu rozespalej, tak jsem čet "Nerad holky"... a už jsem si pomyslel,'."\n".
-'vzhledem k událostem posledních dnů, jakej to bude tady flame :)))'."\n".
+'	vzhledem k událostem posledních dnů, jakej to bude tady flame :)))'."\n".
 ''."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/clanky/komiks-xkcd-67-nerd-holky/diskuse#4'),
@@ -525,7 +520,7 @@ $fortunes = array(
 ''."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/ankety/policie-napadeni-serveru#12'),
-  array('Jinak nechápu proč se zas vymýšlí kolo když ImageMagick je to s námi již cca. 100 let.'."\n".
+  array('Jinak nechápu proč se zas vymýšlí kolo když ImageMagick je tu s námi již cca. 100 let.'."\n".
 '							--Grunt'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/itckar/2011/5/hq.pixelmap-vylepseny-filter-saturacie-bez-skreslenia/diskuse#15'),
@@ -545,7 +540,8 @@ $fortunes = array(
 '							--Miloslav Ponkrác'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/systemakuv_blog/2011/5/davam-manazerskemu-kapitalismu-17-let-spis-min/diskuse#205'),
-  array('Stable release msys je na Vistě x64 absolutně nestabilní a tak jsem byl nucen stáhnout nestabilní, která byla stabilní :-)'."\n".
+  array('Stable release msys je na Vistě x64 absolutně nestabilní,'."\n".
+'a tak jsem byl nucen stáhnout nestabilní, která byla stabilní :-)'."\n".
 '							--Jardík'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/jarda_bloguje/2008/9/gtkmm-pro-windows-x64'),
@@ -564,7 +560,7 @@ $fortunes = array(
   array('Michal2: Nejsem sice sitar ale nevidim na prvni pohled prekazku v tom, udelat v ipv6 NAT.'."\n".
 '	 Teda kdyby nekdo mermomoci takovou volovinu delat chtel.'."\n".
 'SPM: Překážka je v tom, že by tu implementaci napřed musel někdo napsat,'."\n".
-'     což díkybohu takyadmini, co ho tak potřebují, nezvládnou...'."\n".
+'	což díkybohu takyadmini, co ho tak potřebují, nezvládnou...'."\n".
 ''."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/vejsplechty/2011/6/je-skutecne-maskarada-nat-tak-zbytecna-a-spatna/diskuse#28'),
@@ -679,7 +675,8 @@ $fortunes = array(
 ''."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/miriam/2011/6/proc-me-zdejsi-uzivatele-nemaji-radi/diskuse#333'),
-  array('Vono porád smartfouny smartfouny.. Já si to kupovat nebudu, počkam tři roky a pak se to bude přidávat do kindrvajec.'."\n".
+  array('Vono porád smartfouny smartfouny..'."\n".
+'Já si to kupovat nebudu, počkam tři roky a pak se to bude přidávat do kindrvajec.'."\n".
 '							--jeleniste'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/xkucf03/2011/7/proc-lzes-obchodniku/diskuse#123'),
@@ -958,7 +955,8 @@ $fortunes = array(
 '							--Luboš Doležel'."\n".
 ''."\n".
 '', 'https://plus.google.com/100068552200082919568/posts/Cs2Y2G6Bokv'),
-  array('Noviny su lepsie, tie mozes pouzit, ked sa minie papier. Tabletom sa vytiera dost blbo...jedine, ze by na to bola aplikacia.'."\n".
+  array('Noviny su lepsie, tie mozes pouzit, ked sa minie papier.'."\n".
+'Tabletom sa vytiera dost blbo...jedine, ze by na to bola aplikacia.'."\n".
 '							--R (anonym)'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/dw/2012/5/ipad-3-z-pohledu-linuxaka-po-2-mesicich#22'),
@@ -1093,8 +1091,9 @@ $fortunes = array(
 '							--Ondrej \'SanTiago\' Zajicek'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/zpravicky/kvuli-chybam-podpory-applu-a-amazonu-prisel-znamy-novinar-o-vsechna-data#22'),
-  array('Anonym: Já absolvovala před 12ti lety ten gruntovnější proces spojený se změnou pohlaví a to je teprve mazec, to bys zíral...'."\n".
-'	tam už se žádné relikty minulosti nekonají - to vám vyperou i rodné číslo a občanku dočista "dorůžova" v mém případě.'."\n".
+  array('Anonym: Já absolvovala před 12ti lety ten gruntovnější proces spojený se změnou pohlaví a to je teprve mazec,'."\n".
+'	to bys zíral... tam už se žádné relikty minulosti nekonají - to vám vyperou i rodné číslo'."\n".
+'	a občanku dočista "dorůžova" v mém případě.'."\n".
 'freshmouse: Jméno sis měla nechat. Vždyť David Kolibáč nezní tak špatně.'."\n".
 ''."\n".
 ''."\n".
@@ -1102,7 +1101,8 @@ $fortunes = array(
   array('davkol: Tak jsem si vzpomněl na tvé výroky v diskuzi na LinuxExpresu.'."\n".
 'Jenda: Koukám, že je tam nějaký nick kolidující se mnou :)'."\n".
 'JS: To je fakt silena nahoda, cim to jen muze byt?'."\n".
-'Jenda: Netuším, pětiznakových nicků přece může být (2*26+10)^5 ≈ 916e6. Proč by si někdo další vybíral zrovna "Jenda"?!'."\n".
+'Jenda: Netuším, pětiznakových nicků přece může být (2*26+10)^5 ≈ 916e6.'."\n".
+'	Proč by si někdo další vybíral zrovna "Jenda"?!'."\n".
 'xkucf03: Rodiče obvykle nebývají dobrým generátorem náhodných znaků :)'."\n".
 ''."\n".
 ''."\n".
