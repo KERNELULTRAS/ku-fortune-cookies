@@ -1308,6 +1308,7 @@ JS: To je fakt silena nahoda, cim to jen muze byt?
 Jenda: Netuším, pětiznakových nicků přece může být (2*26+10)^5 ≈ 916e6.
 	Proč by si někdo další vybíral zrovna "Jenda"?!
 xkucf03: Rodiče obvykle nebývají dobrým generátorem náhodných znaků :)
+Jenda: Thus spoke xkucf03.
 
 
 [https://www.abclinuxu.cz/blog/Fedorka_a_spol/2012/8/alta-ce-zet-dejstvo-druhe/diskuse#28]
@@ -1371,4 +1372,137 @@ Scarabeus IV: No tam se tomu rika best practices. :)
 
 
 [https://www.abclinuxu.cz/zpravicky/vysledky-souteze-o-nejneprehlednejsi-zdrojovy-kod-v-c#4]
+%
+No, třeba moje tchyně používá Kubuntu.
+Ve své věkové kategorii je geek - umí najít na internetu recept na koláč a vytisknout ho.
+							--Atom321
+
+[https://www.abclinuxu.cz/zpravicky/pouzivani-linuxu-podle-technetu-znamkou-punku/diskuse#65]
+%
+Vypráví se, že v horách severní Číny žijí mniši, kteří po letech tréningu VIMu provedou
+jeden ze svých smrtelných chvatů a během vteřiny udělají co potřebují,
+například celý odstavec smažou d), dva nebo tři pak 2d), či 3d).
+Nechtěl bych se s nimi utkat v editaci textů..
+							--Bystroushaak
+
+[https://www.abclinuxu.cz/zpravicky/hardwarove-vylepseni-editoru-vim/diskuse#131]
+%
+taky jsem si tímhle obdobím prošel - akorát to bylo nějaké pentium (asi) na 200 MHz, 10 GB disk a win 98 :)
+mastil jsme na tom fallouta a AoE 2
+doba pokročila - teď mastím AoE 2 na C2D E6600, 4 GB ram pod wine :)
+							--marek_hb
+
+[https://www.abclinuxu.cz/desktopy/pokyp-20110831#6]
+%
+Musel jsem to zkompilovat s -m32, aby se to spustilo.
+
+HI!  I'M ELIZA.  WHAT'S YOUR PROBLEM?
+> You are.
+WHAT MAKES YOU THINK I AM   
+> Cause you won't compile on 64bit.
+IS THAT THE REAL REASON?
+> I actually had to use -m32.
+WHAT DOES THAT SUGGEST TO YOU?
+> That your programmer was a pig.
+WHY ARE YOU CONCERNED ABOUT MY PROGRAMMER WERE A PIG   
+> Cause if everyone coded like this it would be mayhem.
+							--David Watzke
+
+[https://www.abclinuxu.cz/blog/Syllable/2012/11/zaujimave-programy-tip-1/diskuse#5]
+%
+Háček je v tom, že podle ODS je to "vláda lidu" nikoliv v druhém pádě, nýbrž v pádě třetím.
+							--David Kolibáč
+
+[https://www.abclinuxu.cz/zpravicky/mistopredseda-ods-internet-je-hrozbou-demokracie/diskuse#20]
+%
+Patr Ježek: U mých studentů (VŠTE, SVŠES, VŠFS, UJEP, VŠE) mohu potvrdit drtivě převažující odpor k deviacím.
+Bystroushaak: A co teprve odpor k derivacím :)
+Marek Stopka: To je známka hlouposti, chytří lidé mají odpor k integrálům. :D
+
+
+[https://www.abclinuxu.cz/zpravicky/australska-vlada-nakonec-zavrzhla-cenzuru-internetu/diskuse#55]
+%
+Synchronizace menstruace je jen speciální případ obecné synchronizace vázaných oscilátorů - 
+ - pokud je vzájemně vázáno několik oscilátorů se stejnou frekvencí ale různou fází,
+tak dokází k postupné vzájemné synroznizaci tím, že se všechny fáze postupně srovnají 
+(protože je to stav s nejnižší celkovou energií), viz Wikipedie.
+U menstruace je to podobné, až na to, že vázjemná vazba se realizuje přes ženské hormony.
+							--Kvakor
+
+[https://www.abclinuxu.cz/clanky/komiks-xkcd-594-perioda/diskuse#31]
+%
+Zprávička: Měl by vzniknout jednotný Unified BSD?
+	Autor zprávy se představil jako mladý naivní sysadmin a jako výhodu
+	svého návrhu vidí vyšší konkurenceschopnost takového systému.
+alkoholik: Neco mi rika, ze jeste neslysel o Theo de Raadtovi. ;)
+
+
+[https://www.abclinuxu.cz/zpravicky/mel-by-vzniknout-jednotny-unified-bsd#2]
+%
+Jedine intuitivne rozhranie je cecok.
+							--disorder
+
+[https://www.abclinuxu.cz/zpravicky/gnome-shell-bude-podporovat-klasicky-rezim/diskuse#42]
+%
+David Watzke: Tak a Vectra je na kaši...
+Xerces: Tak takhle jezdí programátoři. Overflow - Panic - Crash - Reboot a jedeme dál. :)
+
+
+[https://www.abclinuxu.cz/blog/dw/2012/11/tak-a-vectra-je-na-kasi/diskuse#145]
+%
+SKK: Slovensko a Česko zase až tak odlišné nie sú
+AsciiWolf: To si nemyslím.
+SKK: Na základe čoho? (...)
+gtz: My máme koruny a Vy máte Eura :)
+SKK: To sa mýlite, Vy možno máte koruny, ale ja sa už sotva v peňaženke dohrabem k centom :)
+
+
+[https://www.abclinuxu.cz/blog/digital_design/2012/12/vyvoj-elektroniky/diskuse#38]
+%
+Bedňa: Ja mám nekonečnú ram.
+R: Ale na Javu potrebujes aspon 2x viac :D
+
+
+[https://www.abclinuxu.cz/clanky/komiks-xkcd-312-robert-frost-promine#4]
+%
+Zprávička: Enlightenment DR17 1.0
+kotyz: Takže Duke Nukem Forever máme, E17 máme, tak to už nám chybí jen ten GNU/HURD a může bejt konec světa... :D
+
+
+[https://www.abclinuxu.cz/zpravicky/enlightenment-dr17-1.0#2]
+%
+V tu chvíli jsem věděl, že jsem s tímto skončil a nechci být už nijak spojován ani s open source hnutím,
+ani s linuxovou komunitou, ani s FSF, ani se Stallmanem, ani s Linuxem.
+							--Miloslav Ponkrác
+
+[https://www.abclinuxu.cz/zpravicky/gnutls-jiz-neni-soucasti-projektu-gnu/diskuse#23]
+%
+Zprávička: GNU pakůň v Microsoft Store v Bostonu
+Olaf: Co konkrétně z toho má ten člověk, když tam stojí v plyšovém převleku a cpe lidem něco, o co nemají zájem?
+	Jak se potom liší od párů majících v rukou Strážnou věž, kterou mi cpou pod nos? (...)
+	Takže určitě nebudu stát u trafiky s preprinty z ArXivu ani nebudu zvonit na lidi s tím,
+	že si chci popovídat o Lieových grupách. Zdar.
+kralyk: U mě klidně kvůli těm grupám zazvoň, to bych si docela poslech ;)
+
+
+[https://www.abclinuxu.cz/zpravicky/gnu-pakun-v-microsoft-store-v-bostonu/diskuse#6]
+%
+Kam cert nemuze, tam nastrci pravnickou firmu.
+							--JoHnY2
+
+[https://www.abclinuxu.cz/zpravicky/gnutls-jiz-neni-soucasti-projektu-gnu/diskuse#183]
+%
+Amigapower: [Desktop s Hannah Montana] Když tady můžou buzerantovat s poníkama...
+Migilenik: Brace yourselves, Bronies are comming.
+kotyz: A už sou tu, na centrále už řve alarm... :D
+
+
+[https://www.abclinuxu.cz/desktopy/-20121226#5]
+%
+tired joe: niečo musí byť vo vzduchu, v relatívne krátkej dobe boli navrhnuté
+	tri veľmi zlé rozhrania: KDE 4, Gnome 3 a Windows 8 :)
+JoHnY2: Na druhou stranu je kazdy spatny docela originalnim zpusobem.
+
+
+[https://www.abclinuxu.cz/zpravicky/gnome-shell-bude-podporovat-klasicky-rezim/diskuse#3]
 %

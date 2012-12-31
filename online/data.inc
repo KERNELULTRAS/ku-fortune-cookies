@@ -1104,6 +1104,7 @@ $fortunes = array(
 'Jenda: Netuším, pětiznakových nicků přece může být (2*26+10)^5 ≈ 916e6.'."\n".
 '	Proč by si někdo další vybíral zrovna "Jenda"?!'."\n".
 'xkucf03: Rodiče obvykle nebývají dobrým generátorem náhodných znaků :)'."\n".
+'Jenda: Thus spoke xkucf03.'."\n".
 ''."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/Fedorka_a_spol/2012/8/alta-ce-zet-dejstvo-druhe/diskuse#28'),
@@ -1157,5 +1158,120 @@ $fortunes = array(
 ''."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/zpravicky/vysledky-souteze-o-nejneprehlednejsi-zdrojovy-kod-v-c#4'),
+  array('No, třeba moje tchyně používá Kubuntu.'."\n".
+'Ve své věkové kategorii je geek - umí najít na internetu recept na koláč a vytisknout ho.'."\n".
+'							--Atom321'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/pouzivani-linuxu-podle-technetu-znamkou-punku/diskuse#65'),
+  array('Vypráví se, že v horách severní Číny žijí mniši, kteří po letech tréningu VIMu provedou'."\n".
+'jeden ze svých smrtelných chvatů a během vteřiny udělají co potřebují,'."\n".
+'například celý odstavec smažou d), dva nebo tři pak 2d), či 3d).'."\n".
+'Nechtěl bych se s nimi utkat v editaci textů..'."\n".
+'							--Bystroushaak'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/hardwarove-vylepseni-editoru-vim/diskuse#131'),
+  array('taky jsem si tímhle obdobím prošel - akorát to bylo nějaké pentium (asi) na 200 MHz, 10 GB disk a win 98 :)'."\n".
+'mastil jsme na tom fallouta a AoE 2'."\n".
+'doba pokročila - teď mastím AoE 2 na C2D E6600, 4 GB ram pod wine :)'."\n".
+'							--marek_hb'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/desktopy/pokyp-20110831#6'),
+  array('Musel jsem to zkompilovat s -m32, aby se to spustilo.'."\n".
+''."\n".
+'HI!  I\'M ELIZA.  WHAT\'S YOUR PROBLEM?'."\n".
+'> You are.'."\n".
+'WHAT MAKES YOU THINK I AM   '."\n".
+'> Cause you won\'t compile on 64bit.'."\n".
+'IS THAT THE REAL REASON?'."\n".
+'> I actually had to use -m32.'."\n".
+'WHAT DOES THAT SUGGEST TO YOU?'."\n".
+'> That your programmer was a pig.'."\n".
+'WHY ARE YOU CONCERNED ABOUT MY PROGRAMMER WERE A PIG   '."\n".
+'> Cause if everyone coded like this it would be mayhem.'."\n".
+'							--David Watzke'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/Syllable/2012/11/zaujimave-programy-tip-1/diskuse#5'),
+  array('Háček je v tom, že podle ODS je to "vláda lidu" nikoliv v druhém pádě, nýbrž v pádě třetím.'."\n".
+'							--David Kolibáč'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/mistopredseda-ods-internet-je-hrozbou-demokracie/diskuse#20'),
+  array('Patr Ježek: U mých studentů (VŠTE, SVŠES, VŠFS, UJEP, VŠE) mohu potvrdit drtivě převažující odpor k deviacím.'."\n".
+'Bystroushaak: A co teprve odpor k derivacím :)'."\n".
+'Marek Stopka: To je známka hlouposti, chytří lidé mají odpor k integrálům. :D'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/australska-vlada-nakonec-zavrzhla-cenzuru-internetu/diskuse#55'),
+  array('Synchronizace menstruace je jen speciální případ obecné synchronizace vázaných oscilátorů - '."\n".
+' - pokud je vzájemně vázáno několik oscilátorů se stejnou frekvencí ale různou fází,'."\n".
+'tak dokází k postupné vzájemné synroznizaci tím, že se všechny fáze postupně srovnají '."\n".
+'(protože je to stav s nejnižší celkovou energií), viz Wikipedie.'."\n".
+'U menstruace je to podobné, až na to, že vázjemná vazba se realizuje přes ženské hormony.'."\n".
+'							--Kvakor'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/clanky/komiks-xkcd-594-perioda/diskuse#31'),
+  array('Zprávička: Měl by vzniknout jednotný Unified BSD?'."\n".
+'	Autor zprávy se představil jako mladý naivní sysadmin a jako výhodu'."\n".
+'	svého návrhu vidí vyšší konkurenceschopnost takového systému.'."\n".
+'alkoholik: Neco mi rika, ze jeste neslysel o Theo de Raadtovi. ;)'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/mel-by-vzniknout-jednotny-unified-bsd#2'),
+  array('Jedine intuitivne rozhranie je cecok.'."\n".
+'							--disorder'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/gnome-shell-bude-podporovat-klasicky-rezim/diskuse#42'),
+  array('David Watzke: Tak a Vectra je na kaši...'."\n".
+'Xerces: Tak takhle jezdí programátoři. Overflow - Panic - Crash - Reboot a jedeme dál. :)'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/dw/2012/11/tak-a-vectra-je-na-kasi/diskuse#145'),
+  array('SKK: Slovensko a Česko zase až tak odlišné nie sú'."\n".
+'AsciiWolf: To si nemyslím.'."\n".
+'SKK: Na základe čoho? (...)'."\n".
+'gtz: My máme koruny a Vy máte Eura :)'."\n".
+'SKK: To sa mýlite, Vy možno máte koruny, ale ja sa už sotva v peňaženke dohrabem k centom :)'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/digital_design/2012/12/vyvoj-elektroniky/diskuse#38'),
+  array('Bedňa: Ja mám nekonečnú ram.'."\n".
+'R: Ale na Javu potrebujes aspon 2x viac :D'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/clanky/komiks-xkcd-312-robert-frost-promine#4'),
+  array('Zprávička: Enlightenment DR17 1.0'."\n".
+'kotyz: Takže Duke Nukem Forever máme, E17 máme, tak to už nám chybí jen ten GNU/HURD a může bejt konec světa... :D'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/enlightenment-dr17-1.0#2'),
+  array('V tu chvíli jsem věděl, že jsem s tímto skončil a nechci být už nijak spojován ani s open source hnutím,'."\n".
+'ani s linuxovou komunitou, ani s FSF, ani se Stallmanem, ani s Linuxem.'."\n".
+'							--Miloslav Ponkrác'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/gnutls-jiz-neni-soucasti-projektu-gnu/diskuse#23'),
+  array('Zprávička: GNU pakůň v Microsoft Store v Bostonu'."\n".
+'Olaf: Co konkrétně z toho má ten člověk, když tam stojí v plyšovém převleku a cpe lidem něco, o co nemají zájem?'."\n".
+'	Jak se potom liší od párů majících v rukou Strážnou věž, kterou mi cpou pod nos? (...)'."\n".
+'	Takže určitě nebudu stát u trafiky s preprinty z ArXivu ani nebudu zvonit na lidi s tím,'."\n".
+'	že si chci popovídat o Lieových grupách. Zdar.'."\n".
+'kralyk: U mě klidně kvůli těm grupám zazvoň, to bych si docela poslech ;)'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/gnu-pakun-v-microsoft-store-v-bostonu/diskuse#6'),
+  array('Kam cert nemuze, tam nastrci pravnickou firmu.'."\n".
+'							--JoHnY2'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/gnutls-jiz-neni-soucasti-projektu-gnu/diskuse#183'),
+  array('Amigapower: [Desktop s Hannah Montana] Když tady můžou buzerantovat s poníkama...'."\n".
+'Migilenik: Brace yourselves, Bronies are comming.'."\n".
+'kotyz: A už sou tu, na centrále už řve alarm... :D'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/desktopy/-20121226#5'),
+  array('tired joe: niečo musí byť vo vzduchu, v relatívne krátkej dobe boli navrhnuté'."\n".
+'	tri veľmi zlé rozhrania: KDE 4, Gnome 3 a Windows 8 :)'."\n".
+'JoHnY2: Na druhou stranu je kazdy spatny docela originalnim zpusobem.'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/gnome-shell-bude-podporovat-klasicky-rezim/diskuse#3'),
   array()
 );
