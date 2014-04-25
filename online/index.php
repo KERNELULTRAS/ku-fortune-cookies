@@ -37,7 +37,7 @@ function page($html)
       '<div id="header-r">'.
       '<a id="list" href="'.$root.'list">seznam všech</a>'.
       '<a href="http://kernelultras.org/">KU</a>'.
-      '<a href="https://github.com/kralyk/ku-fortune-cookies" class="last">github</a>'.
+      '<a href="https://bitbucket.org/kralyk/ku-fortune-cookies" class="last">github</a>'.
       '</div>'.
     '</div>'.
     '<div class="center">'.
