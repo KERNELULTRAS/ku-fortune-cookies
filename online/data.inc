@@ -363,7 +363,7 @@ $fortunes = array(
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/bloK/2011/3/joke-of-the-day/diskuse#5'),
   array('A behem toho se dostavate do situaci kdy musite dokazovat python skill pred slecnou'."\n".
-'ktera ma problemy s formatovanim textu ve wordu a jedine co poradne umi '."\n".
+'ktera ma problemy s formatovanim textu ve wordu a jedine co poradne umi'."\n".
 'je zahekat rediteli v posteli a rozhoduje o vasi budoucnosti.'."\n".
 '(to jsem ji asi nemel rikat a mozna bych to misto dostal... neunesla pravdu)'."\n".
 '							--P.P. (anonym)'."\n".
@@ -438,7 +438,7 @@ $fortunes = array(
 'JK: No jo, kureci urvanci, co se dalo cekat... Fakt uz me nebavi poslouchat ty blby kecy od nich.'."\n".
 '	Ale kurata za to nemuzou, to jejich uzivatele. Stejne je to moda,'."\n".
 '	ktera pomine, a vsichni se vrati zpet ke korenum - k DEBIANu.'."\n".
-'Vladimir USAMA Zima: curaci zasrany kurva chci aby tam ty kurata nesli pres tu silnice kdyz rykam '."\n".
+'Vladimir USAMA Zima: curaci zasrany kurva chci aby tam ty kurata nesli pres tu silnice kdyz rykam'."\n".
 '	ze nechci tak tim mislim ze me to sere kdyz to delaj do pici jdu raci omrdat svou starou.........'."\n".
 'Jan Strider Jílek: Vrátil jsem se domů a ulehl ke své mladé přítelkyni. Ukazoval jsem jí fotografie'."\n".
 '	mých předchozích kuřat, ale moc to na ni nezapůsobilo. Asi stárnu.'."\n".
@@ -457,7 +457,7 @@ $fortunes = array(
 ''."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/Strider_BSD_koutek/2010/6/feministky-do-pekla/diskuse#157'),
-  array('Blog: Zaujala ma moznost mojej banky vytvorit si vlastny namet kredit karty '."\n".
+  array('Blog: Zaujala ma moznost mojej banky vytvorit si vlastny namet kredit karty'."\n".
 '  a ten Vam banka vytlaci na vasu bankomatovu kartu (...) Mimochodom nejake navrhy?'."\n".
 ''."\n".
 'Jardík: Foto svého penisu ...'."\n".
@@ -566,7 +566,7 @@ $fortunes = array(
 '', 'https://www.abclinuxu.cz/blog/vejsplechty/2011/6/je-skutecne-maskarada-nat-tak-zbytecna-a-spatna/diskuse#28'),
   array('Navíc nemám pocit, že psaní síťových věcí by byl vrchol obtížnosti v programování.'."\n".
 'Patří to spíše k těm jednodušším programátorským úlohám.'."\n".
-'							--Miloslav Ponkrác '."\n".
+'							--Miloslav Ponkrác'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/vejsplechty/2011/6/je-skutecne-maskarada-nat-tak-zbytecna-a-spatna/diskuse#44'),
   array('Mě se naopak při stávce pracuje lépe než kdy jindy,'."\n".
@@ -609,7 +609,7 @@ $fortunes = array(
 '							--Amigapower'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/bigblog/2011/6/sedm-dulezitych-zivotnich-otazek/diskuse#2'),
-  array('třeba ted zmizí reklamy na super čaje z "lung-mig-švink - o půlnoci ve středu kvetoucí '."\n".
+  array('třeba ted zmizí reklamy na super čaje z "lung-mig-švink - o půlnoci ve středu kvetoucí'."\n".
 'tajemné čípkové růže" léčící všechno od řídkého spermatu po upadlou ruku'."\n".
 'a na bylinkových čajích se místo "léčí nachlazení" bude psát "může pomoci při léčbě nachlazení".'."\n".
 '							--marek_hb'."\n".
@@ -713,7 +713,7 @@ $fortunes = array(
   array('Amigapower: ...ale teď mi nejede zvuk v youtube'."\n".
 'vencour: Stáhnout přes dwhelper a kouknout v mplayeru?'."\n".
 'Amigapower: Když se chci vychcat, vyáhnu ptáka a chčiju, nechci to dělat jako ženský,'."\n".
-'	položit prkýnko, povolit pásek, sundat kalhoty, sundat spoďáry, sednout si, '."\n".
+'	položit prkýnko, povolit pásek, sundat kalhoty, sundat spoďáry, sednout si,'."\n".
 '	pak teprve chcát a ještě si k tomu utírat papírem ptáka... ;-)'."\n".
 ''."\n".
 ''."\n".
@@ -1054,10 +1054,6 @@ $fortunes = array(
 '							--Dag'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/Kuk/2012/6/zmije-za-dvermi/diskuse#43'),
-  array('Jak je vidět, chceš bolševiku kotyze vodloudit. Leč kotyz je na inteligentní a krásný, ty nejsi ani jedno.'."\n".
-'							--Jan Jílek'."\n".
-''."\n".
-'', 'https://www.abclinuxu.cz/blog/Kuk/2012/6/zmije-za-dvermi/diskuse#1367'),
   array('Umělá inteligence se nemůže rovnat přirozený blbosti.'."\n".
 '							--kotyz'."\n".
 ''."\n".
@@ -1072,7 +1068,7 @@ $fortunes = array(
 ''."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/dw/2012/7/prvni-dojmy-z-autoskoly/diskuse#177'),
-  array('Ale já si uvědomuju, že to je CDO (to je něco jako OCD, akorát jsou '."\n".
+  array('Ale já si uvědomuju, že to je CDO (to je něco jako OCD, akorát jsou'."\n".
 'písmenka v té zkratce podle abecedy, přesně tak, jak mají být!).'."\n".
 '							--Jenda'."\n".
 ''."\n".
@@ -1180,14 +1176,15 @@ $fortunes = array(
 ''."\n".
 'HI!  I\'M ELIZA.  WHAT\'S YOUR PROBLEM?'."\n".
 '> You are.'."\n".
-'WHAT MAKES YOU THINK I AM   '."\n".
+'WHAT MAKES YOU THINK I AM'."\n".
 '> Cause you won\'t compile on 64bit.'."\n".
 'IS THAT THE REAL REASON?'."\n".
 '> I actually had to use -m32.'."\n".
 'WHAT DOES THAT SUGGEST TO YOU?'."\n".
 '> That your programmer was a pig.'."\n".
-'WHY ARE YOU CONCERNED ABOUT MY PROGRAMMER WERE A PIG   '."\n".
+'WHY ARE YOU CONCERNED ABOUT MY PROGRAMMER WERE A PIG'."\n".
 '> Cause if everyone coded like this it would be mayhem.'."\n".
+''."\n".
 '							--David Watzke'."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/blog/Syllable/2012/11/zaujimave-programy-tip-1/diskuse#5'),
@@ -1201,9 +1198,9 @@ $fortunes = array(
 ''."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/zpravicky/australska-vlada-nakonec-zavrzhla-cenzuru-internetu/diskuse#55'),
-  array('Synchronizace menstruace je jen speciální případ obecné synchronizace vázaných oscilátorů - '."\n".
+  array('Synchronizace menstruace je jen speciální případ obecné synchronizace vázaných oscilátorů -'."\n".
 ' - pokud je vzájemně vázáno několik oscilátorů se stejnou frekvencí ale různou fází,'."\n".
-'tak dokází k postupné vzájemné synroznizaci tím, že se všechny fáze postupně srovnají '."\n".
+'tak dochází k postupné vzájemné synroznizaci tím, že se všechny fáze postupně srovnají'."\n".
 '(protože je to stav s nejnižší celkovou energií), viz Wikipedie.'."\n".
 'U menstruace je to podobné, až na to, že vázjemná vazba se realizuje přes ženské hormony.'."\n".
 '							--Kvakor'."\n".
@@ -1273,5 +1270,158 @@ $fortunes = array(
 ''."\n".
 ''."\n".
 '', 'https://www.abclinuxu.cz/zpravicky/gnome-shell-bude-podporovat-klasicky-rezim/diskuse#3'),
+  array('Mě osobně je jedno, jestli budu mít šťastný rok, jsem pojištěnej'."\n".
+'							--Blbec z Horní Dolní'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/pyx/2012/12/pf-2013/diskuse#20'),
+  array('Někde jsem četl.. Ano, bylo to v Návodu k použítí Zeměkoule, kde je v první kapitole napsáno:'."\n".
+'"A hned potom vypneme akonadi."'."\n".
+'							--Honz'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/kde-sc-4.9.5#9'),
+  array('Klerik: Já teď kupoval novou základovku a ani jsem se na UEFI nekoukl, všechno jsem povypínal a mám klid :).'."\n".
+'Luboš Doležel: Já ho taky nepoužívám, nespatřuju v tom žádný přínos. Od základky očekávám jen to,'."\n".
+'               aby se načetl Linux, případně aby se načetl z PXE, a k tomu mi starý dobrý BIOS stačí.'."\n".
+'Šangala: Bohužel základka mi do dětí načítá stále jen Windows.'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/problem-samsungu-s-uefi-se-dotyka-i-windows#3'),
+  array('bug report or it didn\'t happen...'."\n".
+'							--RapMan'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/luv/2013/3/unity-needs-loving-too/diskuse#40'),
+  array('Dramatickou pauzu v regulárním výrazu vidím poprvé, ale uznávám, že při čtení složitějších by se hodila :-)'."\n".
+'							--Milan Vančura'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/clanky/komiks-xkcd-1171-problemy-s-perlem/diskuse#14'),
+  array('Zprávička: Vyšlo Jaro 2.0.13.'."\n".
+'Michal Kubeček: Eh, a to se pozná podle toho, že když jsem ráno vstal, teploměr ukazoval šest pod nulou?'."\n".
+'Marv-CZ: Ne, to se pozná podle toho, že je déle světlo na sáňkování.'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/jaro-2.0.13/diskuse#52'),
+  array('e.lisak: kristalizace ?'."\n".
+'kralyk: díky, opraveno'."\n".
+'Amigapower: Próóóč woe? Od slova kristus, ne?'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/Untitled/2010/2/namoroka-a-prelevani-medu#40'),
+  array('> rad bych hybernoval'."\n".
+'ehm?'."\n".
+'> hybernace'."\n".
+'> změna světské osoby v člena františkánského řádu hybernů - srovnej s hibernace'."\n".
+'wat'."\n".
+'							--David Kolibáč'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/ankety/uspavani-notebooku/diskuse#4'),
+  array('xkucf03: netušíte někdo, k čemu je sdílení widgetů? Používáte to někdo?'."\n".
+'fri: Sdílení widgetů je určeno ke sdílení doplňků - doplňkových součástí pracovní plochy zobrazených na ploše.'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/xkucf03/2013/9/aktivity-a-plochy-v-kde/diskuse#54'),
+  array('Tak tak, obchodník má mít o zákaznících všechny informace, které chce.'."\n".
+'Zákazníci mají mít o obchodníkovi taktéž všechny informace, které chce. :D'."\n".
+'							--pavlix'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/lg-smart-tv-odesilaji-citlive-informace-na-servery-lg#28'),
+  array('Me prijde JS v pohode, ale clovek nad nim musi premyslet jak nad pythonem nebo lispem s divnou syntaxi,'."\n".
+'ne jako nad Javou, pac jak tam clovek zacne tahat AbstractSingletonFactoryVisitor tak to jde cele do haje.'."\n".
+'							--WNJ'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/smartphone-jolla-se-sailfish-os-v-prodeji/diskuse#152'),
+  array('AraxoN: Používam starodávny Thunderbird 2.0, pretože vyššie verzie mi nevyhovujú.'."\n".
+'        Skúsim spraviť upgrade na Evolution. Ďakujem za tip.'."\n".
+'Jenda: Nebojíš se zero-century exploitů?'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/jirka/2013/11/vybiram-multiplatformniho-emailoveho-klienta-winpluslinux-2/diskuse#13'),
+  array('Já jsem televizi vyhodil, když přestali analogově vysílat :).'."\n".
+'Od té doby mi ke sledování sraček slouží internet :).'."\n".
+'							--pavlix'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/Svedek_Damdoguv/2013/12/rytmika-tv-zprav-ct-vs.-nova-2/diskuse#6'),
+  array('A nebo si do toho nasral 32bitový šmejďárny jako já, dokud sem měl tu Fedoru striktně 64bit,'."\n".
+'tak mi všechno fungovalo. Měls celou dobu pravdu vole. Áve Jardík!'."\n".
+'							--Amigapower'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/jarda_bloguje/2013/12/kde-je-rozbity/diskuse#92'),
+  array('Bedňa: Teraz mám paranoju, keď sa nudím dám terminál do fullscreenu a pustím si tcpdump,'."\n".
+'       je to fajn relax, odporúčam. Možno natrafíš aj na niečo čo ti beží a ani to nevyužívaš.'."\n".
+'Amigapower: sice nevim na co to je dobrý, ale vypadá to mimořádně efektně :-D když se mně kolega zeptal co dělám,'."\n".
+'            suše sem mu odpověděl že hackuju heslo pro přístup do databáze všeobecný zdravotní pojišťovny,'."\n".
+'            protože kámoš potřebuje smazat dluh :-D Nabíd sem mu, že když dá 10% z dlužný částky, smažu mu to taky :-D'."\n".
+'            tak sem zvědavej, kdy příde s třiceti litrama, abych mu řek že sem si dělal prdel :-D'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/Linux_nieje_jadro_ale_komunita/2014/1/brony-uz-aj-na-f-drode/diskuse#103'),
+  array('Kdybych byl línej, tak nejdu běhat. Jsem jen moc sexy na běhání v zimě.'."\n".
+'							--David Watzke'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/dw/2014/1/behani-v-zime/diskuse#10'),
+  array('> Hmm... televizní kanál pro geeky. Pak by se ta televize i mohla hodit. Škoda že žádný takové neexistuje.'."\n".
+''."\n".
+'Už to vidím...'."\n".
+'"Doslova šok zažili obyvatelé #c++@freenode včera večer, když byl náhle s předstihem vydám standard C++14.'."\n".
+'Více naše reportérka přímo na místě."'."\n".
+'							--kralyk'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/Svedek_Damdoguv/2013/12/rytmika-tv-zprav-ct-vs.-nova-2/diskuse#24'),
+  array('Bedňa: A čo sa týka báb, vieš že jediná pekná je ta moja *-)'."\n".
+'gtz: Ano vím, také to někdy říkám :-)'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/Linux_nieje_jadro_ale_komunita/2014/1/brony-uz-aj-na-f-drode#4'),
+  array('Zprávička: 100. nejen linuxový sraz v Brně'."\n".
+'loki: Samozrejme zase brno (zamerne pisi s malym)'."\n".
+'Helb: Neboj, třeba ti ještě povyroste :-)'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/-100.-nejen-linuxovy-sraz-v-brne#3'),
+  array('Bhua: Jedu na Kubuntu 14.04, a semanticke vyhledavani konecne funguje na 100% vcetne KMailu.'."\n".
+'      Index je asi 20GB na 100GB dat.'."\n".
+'jozka: Tech 100% je vytizeni CPU?'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/kde-sc-4.13/diskuse#29'),
+  array('blbost nemá národnost'."\n".
+'							--anonym'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/BLB/2014/5/dnes-je-mimoradne-vyznamny-den/diskuse#16'),
+  array('Nejde o chybu, ale o implementační nutnost.'."\n".
+'							--frdrx'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/systemd-213/diskuse#269'),
+  array('Grunt: Jak proboha souvisejí kompilátory s ženskýma?'."\n".
+'kralyk: Warningy můžeš ignorovat, ale jednoho dne se ti to vymstí.'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/hansovo/2014/7/rms-na-tedx/diskuse#96'),
+  array('> Ja bych rad, aby vice lidi nahlizelo na programovani prave jako na to vareni'."\n".
+''."\n".
+'Tesim se na zaplavu televiznich poradu o programovani:'."\n".
+'1) Zdenek Pohlraich: Kurva, chlapi, v tom kodu mate ale bordel, [pip], [pip].'."\n".
+''."\n".
+'2) Jirka Babica: Dneska si ukazeme, jak udelat quicksort.'."\n".
+'   Budeme k tomu potrebovat jedno pole hodnot. Kdo nevi, jak se dela pole, pouzije spojovy seznam.'."\n".
+''."\n".
+'3) Jarda Hruska: Dnes si v televiznich novinach ukazeme, jak v JavaScriptu rychle a levne otestovat prvociselnost.'."\n".
+'   Kazdy vi, ze prvocisla jsou licha cisla. Staci nam tedy overit, ze cislo je delitelne dvema.'."\n".
+'   Nefunguje to vzdy uplne spravne, ale hlavni je, ze je to rychle a levne naprogramovane.'."\n".
+''."\n".
+'4) Prostreno: Dnes si pozveme bandu psychopatu, aby neco naprogramovali a pak si ten kod pomluvili.'."\n".
+'   Vysledna hadka bude priblizne stejne zabavna jako tato diskuze.'."\n".
+'							--deda.jabko'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/zpravicky/python-je-nejcasteji-pouzivanym-programovacim-jazykem-pro-vyuku-programovani/diskuse#217'),
+  array('Mea vulva, jdu spáchat sudoku.'."\n".
+'							--Jenda'."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/vlastikovo/2014/1/matematika-transformace-souradnic/diskuse#12'),
+  array('Blog: davkol'."\n".
+'anonym: jaky je smysl tvojí existence?'."\n".
+'marek_hb: myslím, že si chce najít správnou klávesnici a založit s ní rodinu ...'."\n".
+''."\n".
+''."\n".
+'', 'https://www.abclinuxu.cz/blog/pyx/2014/5/dalsi-nechutny-utok-pohrbili-ivetu-bartosovou/diskuse#6'),
   array()
 );
