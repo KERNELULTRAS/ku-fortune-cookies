@@ -23,6 +23,8 @@ Format je:
 
 4. Odkaz uzavretý v hranatých zátvorkách
 
+5. Znak percenta
+
 ![IceWM desktop](https://raw.githubusercontent.com/KERNELULTRAS/ku-fortune-cookies/master/images/kuf2.jpg)
 
 Do **Commit changes** vložíme nejakú poznámku, napríklad **added fortune** a klikneme na zelené tlačítko **Commit changes**.
