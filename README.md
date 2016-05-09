@@ -28,4 +28,4 @@ Format je:
 Do **Commit changes** vložíme nejakú poznámku, napríklad **added fortune** a klikneme na zelené tlačítko **Commit changes**.
 Tým sme úspešne vložili ďalšiu fortúnka.
 
-![IceWM desktop](https://raw.githubusercontent.com/KERNELULTRAS/ku-fortune-cookies/master/images/kuf2.jpg)
+![IceWM desktop](https://raw.githubusercontent.com/KERNELULTRAS/ku-fortune-cookies/master/images/kuf3.jpg)
