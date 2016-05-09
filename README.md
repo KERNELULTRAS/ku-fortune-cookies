@@ -15,10 +15,13 @@ Teraz vložíme fortunku.
 
 Format je:
 
-*1. Fortunka, môže mať aj viac riadkov.
-*2. Pod ňu sedem tabulátorov a --nick
-*3. Prázdny riadok
-*4. Odkaz uzavretý v hranatých zátvorkách
+1. Fortunka, môže mať aj viac riadkov.
+
+2. Pod ňu sedem tabulátorov a --nick
+
+3. Prázdny riadok
+
+4. Odkaz uzavretý v hranatých zátvorkách
 
 ![IceWM desktop](https://raw.githubusercontent.com/KERNELULTRAS/ku-fortune-cookies/master/images/kuf2.jpg)
 
